@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a66d64e1-2a39-4e58-bc81-659d17b06ebd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../persistence-modules/jdbcexample/src/main/java/DatasourceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../persistence-modules/jdbcexample/src/main/java/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../persistence-modules/jdbcexample/src/main/java/PersonEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../persistence-modules/jdbcexample/src/main/java/PreparedStatementPersonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../persistence-modules/jdbcexample/src/main/java/StatementPersonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-angular/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-modules/spring-security-web-rest/src/main/java/com/baeldung/SpringBootSwaggerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-web-modules/spring-rest-http/src/main/java/com/baeldung/config/AdapterServiceEventDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-angular/src/main/js/application/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-angular/src/main/js/application/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-angular/src/main/js/application/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-angular/src/main/js/application/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-libraries-2/src/main/java/com/baeldung/jobrunr/controller/JobRunrController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-libraries-2/src/main/java/com/baeldung/jobrunr/service/SampleJobService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-libraries-2/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-swagger/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-swagger/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-swagger/src/main/java/com/baeldung/swagger2boot/SpringBootSwaggerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-swagger/src/main/java/com/baeldung/swagger2boot/SpringBootSwaggerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-swagger/src/main/java/com/baeldung/swagger2boot/configuration/SwaggerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-swagger/src/main/java/com/baeldung/swagger2boot/configuration/SwaggerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-swagger/src/main/java/com/baeldung/swagger2boot/controller/RegularRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-swagger/src/main/java/com/baeldung/swagger2boot/controller/RegularRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-security-modules/spring-security-web-rest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-security-modules/spring-security-web-rest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-web-modules/spring-rest-http/src/main/java/com/baeldung/controllers/DeferredResultController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-web-modules/spring-rest-http/src/main/java/com/baeldung/controllers/DeferredResultController.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1vqPiLqeS1pftK5Pa9xwXPDS0ns" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baeldung.crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.crud.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a66d64e1-2a39-4e58-bc81-659d17b06ebd" name="Default Changelist" comment="" />
+      <created>1627286771196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627286771196</updated>
+      <workItem from="1627286772333" duration="314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
